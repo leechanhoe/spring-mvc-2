@@ -35,7 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-*.jar
-*.bat
-*.DS_Store
-*.jar
